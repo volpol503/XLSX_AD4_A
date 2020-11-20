@@ -1,0 +1,8 @@
+
+.icon-folder-open:before { content: '\e800'; } /* '' */
+.icon-book:before { content: '\e801'; } /* '' */
+.icon-link:before { content: '\e802'; } /* '' */
+.icon-table:before { content: '\f0ce'; } /* '' */
+.icon-file-pdf:before { content: '\f1c1'; } /* '' */
+.icon-file-word:before { content: '\f1c2'; } /* '' */
+.icon-file-excel:before { content: '\f1c3'; } /* '' */
